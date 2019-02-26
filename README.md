@@ -1,8 +1,9 @@
+[TOC]
+
 # flutter_start
 
    一边熟悉控件一边来完成一个flutter的项目。
 
-[TOC]
 # Scaffold
     Scaffold Widget 提供了基本的 Material Design 布局所以我们直接 return new Scaffold组件。
 1. Key key,
